@@ -1,0 +1,15 @@
+{
+    "title": "Sitemap",
+    "version": "1.00",
+    "name": "Sitemap",
+    "description": "Generates sitemap.",
+    "author": "ImpressPages",
+    "options": [
+        {
+            "label": "Sitemap menu aliases (comma separated)",
+            "name": "menuList",
+            "type": "text",
+            "default": ""
+        }
+    ]
+}
